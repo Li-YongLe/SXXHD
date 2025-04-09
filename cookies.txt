@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sxxhdjn.com	TRUE	/	FALSE	1999999999	PHPSESSID	3tt8t2sbab39juoo8ucfmngrk6
+www.sxxhdjn.com	TRUE	/	FALSE	1999999999	1649571	8a627b334c833d156a9123ea1ce5b5a0
+.baidu.com	TRUE	/	FALSE	1999999999	BAIDUID	F0F2277F871DDBEDBC63F3D9A2E1C5B6:FG=1
+www.sxxhdjn.com	TRUE	/	FALSE	1999999999	qx_trespass	deleted
+www.sxxhdjn.com	TRUE	/	FALSE	1999999999	website_user_user_new	20250409
+

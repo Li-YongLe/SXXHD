@@ -1,0 +1,135 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Apr 2025 12:57:24 at http://www.sxxhdjn.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.sxxhdjn.com/ -O1 "D:\Test\Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:00:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 1867953 got 1036432): aimg8.dlszyht.net.cn/module/simplepicbackground/1649571/5474/10947046_1550717324.jpg?t=8125
+13:01:01	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/guest_book.php?username=xinhuidejinnuo (from www.sxxhdjn.com/)
+13:03:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 3224476 got 1035131): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522736482871855.png
+13:04:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 1506705 got 1037922): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1540780119803438.png
+13:04:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 3368885 got 1035102): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522737954330860.png
+13:04:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 1191324 got 1035127): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522656189606123.png
+13:06:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 2744825 got 1035129): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522659292184018.png
+13:07:47	Warning: 	file not stored in cache due to bogus state (broken size, expected 1701981 got 1037837): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522726236707831.png
+13:08:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 1915127 got 1035129): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1540780306225045.png
+13:10:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 2523338 got 1035144): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522728587742162.png
+13:10:34	Warning: 	file not stored in cache due to bogus state (broken size, expected 2726190 got 1035098): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522728594717043.png
+13:10:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 2583905 got 1036445): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522734513989333.png
+13:12:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 4595739 got 1035113): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523936048995035.png
+13:13:00	Warning: 	file not stored in cache due to bogus state (broken size, expected 3111791 got 1034902): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523935312462949.png
+13:13:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 3086538 got 1036435): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522721653801718.png
+13:14:02	Warning: 	Retry after error -4 (Incorrect length (1036432 Bytes, 1867953 expected)) at link aimg8.dlszyht.net.cn/module/simplepicbackground/1649571/5474/10947046_1550717324.jpg?t=8125 (from www.sxxhdjn.com/)
+13:15:00	Warning: 	file not stored in cache due to bogus state (broken size, expected 1995538 got 1034897): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522721906824580.png
+13:15:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 5304585 got 1292729): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522722165455073.png
+13:15:42	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://sp0.baidu.com/9_Q4simg2RQJ8t7jm9iCKT-xh_/s.gif
+13:15:42	Error: 	"Not Found" (404) at link https://s.dlssyht.cn/js/ev_popup/skin/opacity/evPopup_Prompt_input_bg.png (from https://s.dlssyht.cn/js/ev_popup/skin/skin.min.css?0319)
+13:15:42	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/dom/form_iframe.php (from https://s.dlssyht.cn/js/VNew/public.js?0319)
+13:15:43	Error: 	"Not Found" (404) at link www.sxxhdjn.com/images/VNew/magnifying_glass_img.png (from https://s.dlssyht.cn/js/VNew/tj/public_fun.js?0319)
+13:15:43	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/dom/zhuce.php?username= (from https://s.dlssyht.cn/js/VNew/tj/public_fun.js?0319)
+13:15:44	Error: 	"Not Found" (404) at link https://s.dlssyht.cn/images4/top7_28.jpg (from https://s.dlssyht.cn/css/VNew/web_frame.min.css?0319)
+13:15:47	Error: 	"Not Found" (404) at link www.sxxhdjn.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://s.dlssyht.cn/plugins/public/js/base64.min.js)
+13:15:50	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=10&channel_id=10&mids=148&token_id=3&random=1744174669 (from www.sxxhdjn.com/dom/denglu.php?username=xinhuidejinnuo)
+13:16:01	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/dom/msg/codebase/imgs/ (from www.sxxhdjn.com/dom/denglu.php?username=xinhuidejinnuo)
+13:16:03	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=16994697&channel_id=16994697&id=1148611&mids=44,45&token_id=107&random=1744174675 (from www.sxxhdjn.com/xinhuidejinnuo/item_16994697_1148611.html)
+13:16:03	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=16995039&channel_id=16995039&id=2466873&mids=44,45&token_id=107&random=1744174677 (from www.sxxhdjn.com/xinhuidejinnuo/item_16995039_0.html)
+13:16:03	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=16995039&channel_id=16995039&id=1148745&mids=44,45&token_id=107&random=1744174679 (from www.sxxhdjn.com/xinhuidejinnuo/item_16995039_1148745.html)
+13:16:04	Warning: 	Retry after error -4 (Incorrect length (1035131 Bytes, 3224476 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522736482871855.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16995039_1148745.html)
+13:16:05	Warning: 	Retry after error -4 (Incorrect length (1037922 Bytes, 1506705 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1540780119803438.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16995039_1148746.html)
+13:16:05	Warning: 	Retry after error -4 (Incorrect length (1035102 Bytes, 3368885 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522737954330860.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16995039_1148748.html)
+13:16:06	Warning: 	Retry after error -4 (Incorrect length (1035127 Bytes, 1191324 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522656189606123.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16994931_0.html)
+13:16:32	Warning: 	Retry after error -4 (Incorrect length (1035129 Bytes, 2744825 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522659292184018.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16994931_1148703.html)
+13:17:21	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=16994931&channel_id=16994931&id=1148705&mids=44,45&token_id=107&random=1744174685 (from www.sxxhdjn.com/xinhuidejinnuo/item_16994931_1148705.html)
+13:17:22	Warning: 	Retry after error -4 (Incorrect length (1037837 Bytes, 1701981 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522726236707831.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_0.html)
+13:18:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 3224476 got 2070108): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522736482871855.png
+13:18:48	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=17062525&channel_id=17062525&id=1160713&mids=44,45&token_id=107&random=1744174687 (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160713.html)
+13:18:50	Warning: 	Retry after error -4 (Incorrect length (1035129 Bytes, 1915127 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1540780306225045.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160712.html)
+13:18:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 3368885 got 2069665): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522737954330860.png
+13:18:52	Warning: 	Retry after error -4 (Incorrect length (1035144 Bytes, 2523338 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522728587742162.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160711.html)
+13:19:10	Warning: 	Retry after error -4 (Incorrect length (1035098 Bytes, 2726190 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522728594717043.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160711.html)
+13:19:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 2744825 got 2069593): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522659292184018.png
+13:19:19	Warning: 	Retry after error -4 (Incorrect length (1036445 Bytes, 2583905 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522734513989333.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160710.html)
+13:21:12	Warning: 	Retry after error -4 (Incorrect length (1035113 Bytes, 4595739 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523936048995035.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160709.html)
+13:21:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 2523338 got 2070725): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522728587742162.png
+13:21:40	Warning: 	Retry after error -4 (Incorrect length (1034902 Bytes, 3111791 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523935312462949.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160708.html)
+13:21:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 2726190 got 2069547): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522728594717043.png
+13:21:57	Warning: 	Retry after error -4 (Incorrect length (1036435 Bytes, 3086538 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522721653801718.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17061663_1160527.html)
+13:22:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 2583905 got 2071278): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522734513989333.png
+13:22:06	Warning: 	Retry after error -4 (Incorrect length (1034897 Bytes, 1995538 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522721906824580.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17061663_1160525.html)
+13:24:00	Warning: 	file not stored in cache due to bogus state (broken size, expected 4595739 got 2071222): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523936048995035.png
+13:24:00	Warning: 	Retry after error -4 (Incorrect length (1292729 Bytes, 5304585 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522722165455073.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17061663_1160523.html)
+13:24:27	Warning: 	file not stored in cache due to bogus state (broken size, expected 3111791 got 2068512): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523935312462949.png
+13:24:31	Error: 	"Not Found" (404) at link https://s.dlssyht.cn/images/new_online2016/record_icon.png (from https://s.dlssyht.cn/css/new_online2016/sidebar_style.css)
+13:24:31	Error: 	"Not Found" (404) at link https://s.dlssyht.cn/images/new_online2016/record_icon_h.png (from https://s.dlssyht.cn/css/new_online2016/sidebar_style.css)
+13:24:31	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/dom/form_iframe.php (from https://s.dlssyht.cn/js/VNew/public.js?0319)
+13:24:34	Error: 	"Not Found" (404) at link https://s.dlssyht.cn/plugins/public/js/msg/codebase/img/__dhxCP_skin_Black/slide.gif (from https://s.dlssyht.cn/plugins/public/js/msg/codebase/dhtmlxcolorpicker.css)
+13:24:34	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=10&channel_id=10&mids=148&token_id=3&random=1744174669 (from www.sxxhdjn.com/dom/denglu.php?username=xinhuidejinnuo)
+13:24:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 3086538 got 2070893): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522721653801718.png
+13:24:49	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/templates/others39/css/base.css (from www.sxxhdjn.com/dom/get_password.php?username=xinhuidejinnuo)
+13:24:51	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=10&channel_id=10&token_id=22&random=1744174856 (from www.sxxhdjn.com/dom/get_password.php?username=xinhuidejinnuo)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/xinhuidejinnuo (from www.sxxhdjn.com/dom/get_password.php?username=xinhuidejinnuo)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_set_form.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_set_index_tag.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_qiehuan_list.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_set_qiehuan.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_index_edit.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_index_list.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_set_index.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_set_top.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_add_foot_doc.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/add_link_site.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/add_foot.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_add_banner.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/add_bbs_class.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_add_module.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_channel_style.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_top_set.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_navi_set.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/own_banner_set.php (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_content.php?channel_id= (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=4 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=32 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=14 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=31 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=21 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=20 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=1635 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=19 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=1835 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/user_make_dom.php?dom_id=1845 (from https://s.dlssyht.cn/js/VNew/pc/self_edit_public.js?0319)
+13:24:52	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/msg/codebase/imgs/ (from https://s.dlssyht.cn/include/alert_box.js?0319)
+13:24:52	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/msg/codebase/imgs/ (from www.sxxhdjn.com/dom/denglu.php?username=xinhuidejinnuo)
+13:24:55	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=16994697&channel_id=16994697&id=1148611&mids=44,45&token_id=107&random=1744174675 (from www.sxxhdjn.com/xinhuidejinnuo/item_16994697_1148611.html)
+13:24:55	Warning: 	Retry after error -4 (Incorrect length (2070108 Bytes, 3224476 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522736482871855.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16995039_1148745.html)
+13:24:57	Warning: 	Retry after error -4 (Incorrect length (2069665 Bytes, 3368885 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522737954330860.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16995039_1148748.html)
+13:24:57	Warning: 	Retry after error -4 (Incorrect length (2069593 Bytes, 2744825 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522659292184018.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16994931_1148703.html)
+13:26:47	Warning: 	Retry after error -4 (Incorrect length (2070725 Bytes, 2523338 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522728587742162.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160711.html)
+13:26:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 5304585 got 2585384): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522722165455073.png
+13:26:59	Warning: 	Retry after error -4 (Incorrect length (2069547 Bytes, 2726190 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522728594717043.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160711.html)
+13:27:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 3224476 got 3104684): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522736482871855.png
+13:27:44	Warning: 	Retry after error -4 (Incorrect length (2071278 Bytes, 2583905 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522734513989333.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160710.html)
+13:27:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 3368885 got 3103268): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522737954330860.png
+13:27:44	Warning: 	Retry after error -4 (Incorrect length (2071222 Bytes, 4595739 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523936048995035.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160709.html)
+13:28:01	Warning: 	Retry after error -4 (Incorrect length (2068512 Bytes, 3111791 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523935312462949.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160708.html)
+13:28:46	Warning: 	Retry after error -4 (Incorrect length (2070893 Bytes, 3086538 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522721653801718.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17061663_1160527.html)
+13:29:07	Warning: 	Retry after error -4 (Incorrect length (2585384 Bytes, 5304585 expected)) at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522722165455073.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17061663_1160523.html)
+13:30:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 4595739 got 3106049): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523936048995035.png
+13:30:32	Error: 	"Not Found" (404) at link www.sxxhdjn.com/dom/form_iframe.php (from https://s.dlssyht.cn/js/VNew/public.js?0319)
+13:30:32	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/css/iconimgSkin/red/iconStyle.css (from www.sxxhdjn.com/templates/others39/css/skincolor.css)
+13:30:33	Error: 	"Not Found" (404) at link www.sxxhdjn.com/msg/codebase/imgs/ (from https://s.dlssyht.cn/include/alert_box.js?0319)
+13:30:33	Warning: 	Retry after error 500 (Internal Server Error) at link www.sxxhdjn.com/ajax_set_info.php?type=7&u_name= (from www.sxxhdjn.com/self_define/include/guest.js?)
+13:30:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link www.sxxhdjn.com/self_define/TJStyle.php?user_id=1649571&all_ch_id=16994697&channel_id=16994697&id=1148611&mids=44,45&token_id=107&random=1744174675 (from www.sxxhdjn.com/xinhuidejinnuo/item_16994697_1148611.html)
+13:30:33	Error: 	"Incorrect length (3104684 Bytes, 3224476 expected)" (-4) after 2 retries at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522736482871855.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16995039_1148745.html)
+13:30:33	Error: 	"Incorrect length (3103268 Bytes, 3368885 expected)" (-4) after 2 retries at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522737954330860.png (from www.sxxhdjn.com/xinhuidejinnuo/item_16995039_1148748.html)
+13:30:33	Error: 	"Incorrect length (3106049 Bytes, 4595739 expected)" (-4) after 2 retries at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523936048995035.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160709.html)
+13:30:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 3111791 got 3103481): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523935312462949.png
+13:30:44	Error: 	"Incorrect length (3103481 Bytes, 3111791 expected)" (-4) after 2 retries at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1523935312462949.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17062525_1160708.html)
+13:31:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 5304585 got 3620440): aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522722165455073.png
+13:31:12	Error: 	"Incorrect length (3620440 Bytes, 5304585 expected)" (-4) after 2 retries at link aimg8.dlszyht.net.cn/ueditor/image/825/1649571/1522722165455073.png (from www.sxxhdjn.com/xinhuidejinnuo/item_17061663_1160523.html)
+13:31:14	Warning: 	Retry after error -4 (No data (connection closed)) at link www.sxxhdjn.com/ajax_set_info.php?type=7&u_name= (from www.sxxhdjn.com/self_define/include/guest.js?)
+13:31:17	Error: 	"Internal Server Error" (500) after 2 retries at link www.sxxhdjn.com/ajax_set_info.php?type=7&u_name= (from www.sxxhdjn.com/self_define/include/guest.js?)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 53 seconds : 553 links scanned, 458 files written (39761351 bytes overall) [51363905 bytes received at 25265 bytes/sec], 6227098 bytes transferred using HTTP compression in 183 files, ratio 19%, 2.9 requests per connection
+(47 errors, 77 warnings, 0 messages)

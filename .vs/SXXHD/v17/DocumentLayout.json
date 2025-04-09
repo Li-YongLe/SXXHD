@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test\\SXXHD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Test\\SXXHD\\www.sxxhdjn.com\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:www.sxxhdjn.com\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Test\\SXXHD\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Test\\SXXHD\\aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\10950160_1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\10950160_1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Test\\SXXHD\\aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\tmp1522143452_1657819_s.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\tmp1522143452_1657819_s.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Test\\SXXHD\\www.sxxhdjn.com\\self_define\\guest_book78e3.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:www.sxxhdjn.com\\self_define\\guest_book78e3.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10950160_1.png",
+              "DocumentMoniker": "D:\\Test\\SXXHD\\aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\10950160_1.png",
+              "RelativeDocumentMoniker": "aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\10950160_1.png",
+              "ToolTip": "D:\\Test\\SXXHD\\aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\10950160_1.png",
+              "RelativeToolTip": "aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\10950160_1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-09T06:08:34.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Test\\SXXHD\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\Test\\SXXHD\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAGIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-09T05:58:19.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tmp1522143452_1657819_s.png",
+              "DocumentMoniker": "D:\\Test\\SXXHD\\aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\tmp1522143452_1657819_s.png",
+              "RelativeDocumentMoniker": "aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\tmp1522143452_1657819_s.png",
+              "ToolTip": "D:\\Test\\SXXHD\\aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\tmp1522143452_1657819_s.png",
+              "RelativeToolTip": "aimg8.dlszyht.net.cn\\ev_user_module_content_tmp\\2018_03_27\\tmp1522143452_1657819_s.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-09T05:53:15.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Test\\SXXHD\\www.sxxhdjn.com\\index.html",
+              "RelativeDocumentMoniker": "www.sxxhdjn.com\\index.html",
+              "ToolTip": "D:\\Test\\SXXHD\\www.sxxhdjn.com\\index.html",
+              "RelativeToolTip": "www.sxxhdjn.com\\index.html",
+              "ViewState": "AgIAALwBAAAAAAAAAAA4wMQBAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-09T05:52:46.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "guest_book78e3.php",
+              "DocumentMoniker": "D:\\Test\\SXXHD\\www.sxxhdjn.com\\self_define\\guest_book78e3.php",
+              "RelativeDocumentMoniker": "www.sxxhdjn.com\\self_define\\guest_book78e3.php",
+              "ToolTip": "D:\\Test\\SXXHD\\www.sxxhdjn.com\\self_define\\guest_book78e3.php",
+              "RelativeToolTip": "www.sxxhdjn.com\\self_define\\guest_book78e3.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAIA1wAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-04-09T05:47:59.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
